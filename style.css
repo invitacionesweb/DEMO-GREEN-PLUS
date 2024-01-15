@@ -343,16 +343,20 @@ footer img {
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
-    height:200px;
+    height:220px;
     display: flex;
     justify-content: center;
+    
+   
+
 }
-.end h2 {
+.end-names img{
+    width: auto;
+    height: auto;
+    max-width: 600px;
     padding: 0;
-    margin: auto;
-    text-align: center;
-    color: var(--color-terciario);
-    font-size: 3em;
+    margin: 0;
+   
 }
 
 @media (max-width: 600px) {
